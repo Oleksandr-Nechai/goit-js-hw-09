@@ -1,0 +1,44 @@
+.container {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: green;
+}
+
+.field {
+  margin-left: 15px;
+}
+
+.value {
+  font-size: 100px;
+}
+.label {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
+
+input {
+  border-radius: 4px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 32px;
+  color: green;
+}
+
+.buttonCss {
+  height: 40px;
+  color: green;
+  background-color: rgb(150, 187, 176);
+  border-radius: 4px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
